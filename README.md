@@ -99,3 +99,5 @@ Can be used to provide the custom style to the inner view.
 ##### `children`
 
 Can be used to provide any view, It accepts single or multiple views.
+
+### Developed with ❤ by Relinns Technologies Pvt Ltd.
