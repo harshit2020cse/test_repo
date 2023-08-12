@@ -1,5 +1,5 @@
 # react-native-app-compat-components
-A lightweight View component that can be styled quickly.
+A lightweight View component with sare area handling that can be styled quickly.
 
 Installation
 ---
