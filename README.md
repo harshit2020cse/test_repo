@@ -65,7 +65,7 @@ Can be used to provide the custom style to the inner view.
 
 ##### `children`
 
-Can be used to provide any view, It accepts single of multiple views.
+Can be used to provide any view, It accepts single or multiple views.
 
 ### AppCompatScrollView
 
@@ -98,4 +98,4 @@ Can be used to provide the custom style to the inner view.
 
 ##### `children`
 
-Can be used to provide any view, It accepts single of multiple views.
+Can be used to provide any view, It accepts single or multiple views.
